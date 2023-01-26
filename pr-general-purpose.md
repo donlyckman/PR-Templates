@@ -6,7 +6,7 @@ Test site: [Mega Nav Template](https://vip.sportsengine.com/se-demo-mega-nav/)
 ![image](https://user-images.githubusercontent.com/16712473/214761482-22b4a6d5-f312-4e16-9973-23a1c0d341ff.png)
 
 **Asana Task**   
-[Task Name](URL)   
+[Main Nav Hover Color](URL)   
 
 **Reference Images/Links**   
 [Mockup](URL) | [Sketch ](URL)   
