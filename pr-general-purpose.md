@@ -25,5 +25,6 @@ Test site: [Mega Nav Template](https://vip.sportsengine.com/se-demo-mega-nav/)
 - [ ] Changes render correctly across all major browsers   
 
 ## Rollback plan
-In the event these changes need to be reverted after being merged roll back this PR using this command
-git revert [commit hash]
+If issues occur after merging one these option may be needed:
+- Create a new PR to fix the issues
+- Revert this PR using
