@@ -23,3 +23,7 @@ Test site: [Mega Nav Template](https://vip.sportsengine.com/se-demo-mega-nav/)
 - [ ] Review JS code changes   
 - [ ] No Errors or Console Logs   
 - [ ] Changes render correctly across all major browsers   
+
+## Rollback plan
+In the event these changes need to be reverted after being merged roll back this PR using this command
+git revert [commit hash]
